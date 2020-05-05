@@ -11,11 +11,11 @@ Los códigos están organizados en función de los capítulos del proyecto. Su u
 
 + CAPÍTULO 4. GOBERNANZA Y CREACIÓN DEL DATA-LAKE: se expone MongoDB como herramienta para crear una base de datos.
 
-+ CAPÍTULO 5. PROCESAMIENTO DE LOS DATOS - PARTE 1 (PANDAS DATAFRAME Y APACHE SPARK): se presentan las herramientas de pandas dataframe y Apache spark. 
++ CAPÍTULO 5. PROCESAMIENTO DE LOS DATOS - PARTE 1 (PANDAS DATAFRAME Y APACHE SPARK): se presentan las herramientas de Pandas Dataframe y Apache spark. 
 
 + CAPÍTULO 5. PROCESAMIENTO DE LOS DATOS - PARTE 2 (REGRESIONES Y SERIES TEMPORALES): se muestran medios para trabajar con regresiones y series temporales en Python. 
 
-+ CAPÍTULO 5. PROCESAMIENTO DE LOS DATOS - PARTE 3 (MACHINE LEARNING): se presentan dos ejemplo de redes neuronales. Uno sencillo con una puerta XOR, y otro con redes LSTM para predicciones en series temporales. 
++ CAPÍTULO 5. PROCESAMIENTO DE LOS DATOS - PARTE 3 (MACHINE LEARNING): se presentan dos ejemplos de redes neuronales. Uno sencillo con una puerta XOR, y otro con redes LSTM para predicciones en series temporales. 
 
 + CAPÍTULO 6. VISUALIZACIÓN DE RESULTADOS: se expone de forma sencilla el uso de matplotlib como librería para realizar gráficas. 
 
